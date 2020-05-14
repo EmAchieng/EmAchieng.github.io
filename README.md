@@ -1,4 +1,4 @@
-# A Personal Portfolio Showing my involvement in tech during my Undergrad years.
+# A Personal Portfolio Showing my involvements in tech during my Undergrad years.
 - Backend Engineering Internship
 - Women Who Code Seoul Organizing Team Volunteer
 - Girls in Tech Seoul
